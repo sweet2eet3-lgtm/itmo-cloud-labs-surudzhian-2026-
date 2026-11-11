@@ -1,14 +1,6 @@
 # Лабораторная работа №1. Обзор Google Cloud и исследование основных сервисов
 
-**University:** [ITMO University](https://itmo.ru/ru/)  
-**Faculty:** [FICT](https://fict.itmo.ru/)  
-**Course:** Облачные платформы как основа технологического предпринимательства  
-**Year:** 2026/2027  
-**Group:** Указать номер группы  
-**Author:** Surudzhian Arutiun  
-**Lab:** Lab1  
-**Date of create:** 11.11.2026  
-**Date of finished:** После защиты  
+ 
 
 ---
 
